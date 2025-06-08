@@ -1,0 +1,19 @@
+.popular{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.popular hr{
+   height: 8px;
+   width: 200px;
+    border-radius: 5px;
+    background-color: rgb(15, 177, 82);
+    margin-bottom: 70px;
+   
+}
+.item-container{
+    display: flex;
+   
+    gap: 20px;
+}
